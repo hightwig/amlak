@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>users.txt</file>
+    </qresource>
+    <qresource prefix="/new/prefix2">
+        <file>FLATS.txt</file>
+    </qresource>
+</RCC>

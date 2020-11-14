@@ -1,0 +1,9 @@
+2 3
+NV 10 10 13 4 12 terhan 3 ALI
+SV 10 10 13 4 12 terhan 3 ALI
+NV 10 10 13 4 12 terhan JHGYF ALI
+SV 10 10 13 4 12 terhan BVMNV ALI
+AP 13 10 1 5 SHAHRUD 3
+1 6 5 ALIE ordinary fuvk
+2 4 5 mamad official df
+4 3 5 pouya commercial sdgr
